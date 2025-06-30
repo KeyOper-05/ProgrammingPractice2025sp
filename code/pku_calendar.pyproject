@@ -1,0 +1,25 @@
+{
+    "files": [
+        "mainwindow.py",
+        "form.ui",
+        "login.ui",
+        "loginWindow.py",
+        "main.py",
+        "user_manager.py",
+        "users.json",
+        "diary.py",
+        "diary_data.json",
+        "emo_eval.py",
+        "departments_lecture.py",
+        "calendar_controller.py",
+        "day.py",
+        "robot_for_xiaobei.py",
+        "event_eval.py",
+        "calendar_event.py",
+        "editEvent.ui",
+        "addCategory_window.ui",
+        "emotion_scores.json",
+        "selectAvatar.ui",
+        "AvatarDialog.py"
+    ]
+}
